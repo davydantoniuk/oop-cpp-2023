@@ -1,0 +1,21 @@
+b.ciesla@firma.wrrt.pl;	l.frackiewicz@firma.wrrt.pl;	1989-2-5;
+j.smialkowski@firma.wrrt.pl;	l.wysocki@firma.wrrt.pl;	1985-2-5;
+j.suwart@firma.wrrt.pl;	h.glinka@firma.wrrt.pl;	1995-2-5;
+m.sienkiewicz@firma.wrrt.pl;	a.pawelek@firma.wrrt.pl;	1966-2-5;
+m.gondz@firma.wrrt.pl;	f.remiszewski@firma.wrrt.pl;	1962-2-5;
+t.swinarski@firma.wrrt.pl;	a.gasiorowska@firma.wrrt.pl;	1970-2-5;
+h.szemiot@firma.wrrt.pl;	l.strzemecki@firma.wrrt.pl;	1979-2-5;
+j.jakimowska@firma.wrrt.pl;	i.sieradzki@firma.wrrt.pl;	1973-2-5;
+r.rymkiewicz@firma.wrrt.pl;	k.lomnicka@firma.wrrt.pl;	2002-2-5;
+s.rychlewska@firma.wrrt.pl;	s.grabowski@o2.pl;	1957-2-5;
+t.szajna@firma.wrrt.pl;	j.budlewski@buziaczek.pl;	1965-2-5;
+m.grabinski@firma.wrrt.pl;	murawski@wp.pl;	1965-2-5;
+j.kozubowski@firma.wrrt.pl;	palaszewska@o2.pl;	1972-2-5;
+j.magierowska@firma.wrrt.pl;	d.slodkowska@wp.pl;	1977-2-5;
+s.pietrzykowska1@firma.wrrt.pl;	syrewicz@o2.pl;	1979-2-5;
+s.pietrzykowska1@firma.wrrt.pl;	gronska@wp.pl;	1980-2-5;
+r.skoczylas@firma.wrrt.pl;	leja@gmail.com;	1981-2-5;
+s.chomicki@firma.wrrt.pl;	j.dobrzanska@wp.pl;	1989-2-5;
+e.mlynarczyk1@firma.wrrt.pl;	a.miazga@onet.pl;	1998-2-5;
+s.siatkowski@firma.wrrt.pl;	firlag@gmail.com;	1998-2-5;
+

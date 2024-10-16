@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1686560826 source:d:\antoniukdavyd\antoniukdavyd\sklep_sportowy_t\main.cpp
+	"przedmiot.h"
+	"namiot.h"
+	"pilka.h"
+	"magazyn.h"
+	<iostream>
+	<memory>
+
+1686560667 d:\antoniukdavyd\antoniukdavyd\sklep_sportowy_t\przedmiot.h
+	<iostream>
+
+1686560535 d:\antoniukdavyd\antoniukdavyd\sklep_sportowy_t\namiot.h
+	"przedmiot.h"
+	<iostream>
+
+1686560771 d:\antoniukdavyd\antoniukdavyd\sklep_sportowy_t\pilka.h
+	"przedmiot.h"
+	<iostream>
+
+1686560846 d:\antoniukdavyd\antoniukdavyd\sklep_sportowy_t\magazyn.h
+	<iostream>
+	<memory>
+	<vector>
+	<algorithm>
+	"przedmiot.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1686559737 source:d:\antoniukdavyd\antoniukdavyd\test_stosu\main.cpp
+	<iostream>
+	"stos.h"
+
+1686559764 d:\antoniukdavyd\antoniukdavyd\test_stosu\stos.h
+	<stdexcept>
+
